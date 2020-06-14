@@ -1,0 +1,1170 @@
+Win rate: 0.41932
+Lose rate: 0.48743
+Draw rate: 0.09325
+Alpha: 0.1
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.41952
+Lose rate: 0.48831
+Draw rate: 0.09217
+Alpha: 0.1
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.421264
+Lose rate: 0.486894
+Draw rate: 0.091842
+Alpha: 0.1
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.4173866666666667
+Lose rate: 0.48943333333333333
+Draw rate: 0.09318
+Alpha: 0.1
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4176
+Lose rate: 0.489545
+Draw rate: 0.092855
+Alpha: 0.1
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.416856
+Lose rate: 0.489918
+Draw rate: 0.093226
+Alpha: 0.1
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.41928666666666664
+Lose rate: 0.48931
+Draw rate: 0.09140333333333334
+Alpha: 0.1
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4193375
+Lose rate: 0.487015
+Draw rate: 0.0936475
+Alpha: 0.1
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.417308
+Lose rate: 0.488902
+Draw rate: 0.09379
+Alpha: 0.1
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.4177533333333333
+Lose rate: 0.4889266666666667
+Draw rate: 0.09332
+Alpha: 0.1
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.41846
+Lose rate: 0.4878375
+Draw rate: 0.0937025
+Alpha: 0.1
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.41663
+Lose rate: 0.49022
+Draw rate: 0.09315
+Alpha: 0.1
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.41912333333333335
+Lose rate: 0.4872433333333333
+Draw rate: 0.09363333333333333
+Alpha: 0.1
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.4184875
+Lose rate: 0.487675
+Draw rate: 0.0938375
+Alpha: 0.1
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.417974
+Lose rate: 0.487866
+Draw rate: 0.09416
+Alpha: 0.1
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.41098666666666667
+Lose rate: 0.49504333333333334
+Draw rate: 0.09397
+Alpha: 0.2
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.411885
+Lose rate: 0.494825
+Draw rate: 0.09329
+Alpha: 0.2
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.413738
+Lose rate: 0.49308
+Draw rate: 0.093182
+Alpha: 0.2
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.41036
+Lose rate: 0.49499666666666664
+Draw rate: 0.09464333333333333
+Alpha: 0.2
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4114675
+Lose rate: 0.4951325
+Draw rate: 0.0934
+Alpha: 0.2
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.412324
+Lose rate: 0.49382
+Draw rate: 0.093856
+Alpha: 0.2
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.41148
+Lose rate: 0.49514
+Draw rate: 0.09338
+Alpha: 0.2
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4140625
+Lose rate: 0.4931425
+Draw rate: 0.092795
+Alpha: 0.2
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.412404
+Lose rate: 0.493922
+Draw rate: 0.093674
+Alpha: 0.2
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.4107133333333333
+Lose rate: 0.49585
+Draw rate: 0.09343666666666667
+Alpha: 0.2
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.412735
+Lose rate: 0.493895
+Draw rate: 0.09337
+Alpha: 0.2
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.413168
+Lose rate: 0.494038
+Draw rate: 0.092794
+Alpha: 0.2
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.41194
+Lose rate: 0.4942
+Draw rate: 0.09386
+Alpha: 0.2
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.411155
+Lose rate: 0.4954675
+Draw rate: 0.0933775
+Alpha: 0.2
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.411966
+Lose rate: 0.495272
+Draw rate: 0.092762
+Alpha: 0.2
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.4092
+Lose rate: 0.49733333333333335
+Draw rate: 0.09346666666666667
+Alpha: 0.3
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.4113175
+Lose rate: 0.49576
+Draw rate: 0.0929225
+Alpha: 0.3
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.408518
+Lose rate: 0.49809
+Draw rate: 0.093392
+Alpha: 0.3
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.41208
+Lose rate: 0.49633333333333335
+Draw rate: 0.09158666666666666
+Alpha: 0.3
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4098025
+Lose rate: 0.4956425
+Draw rate: 0.094555
+Alpha: 0.3
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.409968
+Lose rate: 0.496736
+Draw rate: 0.093296
+Alpha: 0.3
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.40980333333333335
+Lose rate: 0.49750666666666665
+Draw rate: 0.09269
+Alpha: 0.3
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.410135
+Lose rate: 0.4962075
+Draw rate: 0.0936575
+Alpha: 0.3
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.408576
+Lose rate: 0.49764
+Draw rate: 0.093784
+Alpha: 0.3
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.4078833333333333
+Lose rate: 0.49857
+Draw rate: 0.09354666666666667
+Alpha: 0.3
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.40654
+Lose rate: 0.4994125
+Draw rate: 0.0940475
+Alpha: 0.3
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.408264
+Lose rate: 0.498144
+Draw rate: 0.093592
+Alpha: 0.3
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.4025533333333333
+Lose rate: 0.50528
+Draw rate: 0.09216666666666666
+Alpha: 0.3
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.40589
+Lose rate: 0.50068
+Draw rate: 0.09343
+Alpha: 0.3
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.4054
+Lose rate: 0.502184
+Draw rate: 0.092416
+Alpha: 0.3
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.40767333333333333
+Lose rate: 0.4986566666666667
+Draw rate: 0.09367
+Alpha: 0.4
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.406745
+Lose rate: 0.5003025
+Draw rate: 0.0929525
+Alpha: 0.4
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.406766
+Lose rate: 0.499472
+Draw rate: 0.093762
+Alpha: 0.4
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.40748
+Lose rate: 0.4986966666666667
+Draw rate: 0.09382333333333333
+Alpha: 0.4
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4070125
+Lose rate: 0.49983
+Draw rate: 0.0931575
+Alpha: 0.4
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.408058
+Lose rate: 0.498766
+Draw rate: 0.093176
+Alpha: 0.4
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.40523
+Lose rate: 0.5021766666666667
+Draw rate: 0.09259333333333333
+Alpha: 0.4
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4070975
+Lose rate: 0.4991575
+Draw rate: 0.093745
+Alpha: 0.4
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.407102
+Lose rate: 0.500032
+Draw rate: 0.092866
+Alpha: 0.4
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.40468666666666664
+Lose rate: 0.50412
+Draw rate: 0.09119333333333333
+Alpha: 0.4
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.4064725
+Lose rate: 0.500885
+Draw rate: 0.0926425
+Alpha: 0.4
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.405644
+Lose rate: 0.50179
+Draw rate: 0.092566
+Alpha: 0.4
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.39481666666666665
+Lose rate: 0.5154733333333333
+Draw rate: 0.08971
+Alpha: 0.4
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.394415
+Lose rate: 0.515965
+Draw rate: 0.08962
+Alpha: 0.4
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.396236
+Lose rate: 0.512332
+Draw rate: 0.091432
+Alpha: 0.4
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.40736333333333336
+Lose rate: 0.49976
+Draw rate: 0.09287666666666666
+Alpha: 0.5
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.40903
+Lose rate: 0.4982575
+Draw rate: 0.0927125
+Alpha: 0.5
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.404714
+Lose rate: 0.500354
+Draw rate: 0.094932
+Alpha: 0.5
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.40587
+Lose rate: 0.50045
+Draw rate: 0.09368
+Alpha: 0.5
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.40704
+Lose rate: 0.5001225
+Draw rate: 0.0928375
+Alpha: 0.5
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.404738
+Lose rate: 0.50102
+Draw rate: 0.094242
+Alpha: 0.5
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.4048966666666667
+Lose rate: 0.5026866666666666
+Draw rate: 0.09241666666666666
+Alpha: 0.5
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4055625
+Lose rate: 0.5025225
+Draw rate: 0.091915
+Alpha: 0.5
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.405428
+Lose rate: 0.500826
+Draw rate: 0.093746
+Alpha: 0.5
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.40037666666666666
+Lose rate: 0.5076333333333334
+Draw rate: 0.09199
+Alpha: 0.5
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.399005
+Lose rate: 0.5097625
+Draw rate: 0.0912325
+Alpha: 0.5
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.399244
+Lose rate: 0.50857
+Draw rate: 0.092186
+Alpha: 0.5
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.38538
+Lose rate: 0.5283333333333333
+Draw rate: 0.08628666666666666
+Alpha: 0.5
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.3785425
+Lose rate: 0.535705
+Draw rate: 0.0857525
+Alpha: 0.5
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.37938
+Lose rate: 0.535118
+Draw rate: 0.085502
+Alpha: 0.5
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.4035166666666667
+Lose rate: 0.5034966666666667
+Draw rate: 0.09298666666666666
+Alpha: 0.6
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.4061825
+Lose rate: 0.5015175
+Draw rate: 0.0923
+Alpha: 0.6
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.40291
+Lose rate: 0.504162
+Draw rate: 0.092928
+Alpha: 0.6
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.40447
+Lose rate: 0.5036066666666666
+Draw rate: 0.09192333333333333
+Alpha: 0.6
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.40419
+Lose rate: 0.504255
+Draw rate: 0.091555
+Alpha: 0.6
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.40398
+Lose rate: 0.502312
+Draw rate: 0.093708
+Alpha: 0.6
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.39928
+Lose rate: 0.50998
+Draw rate: 0.09074
+Alpha: 0.6
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.398325
+Lose rate: 0.510825
+Draw rate: 0.09085
+Alpha: 0.6
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.399894
+Lose rate: 0.508434
+Draw rate: 0.091672
+Alpha: 0.6
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.38807
+Lose rate: 0.52304
+Draw rate: 0.08889
+Alpha: 0.6
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.388935
+Lose rate: 0.522905
+Draw rate: 0.08816
+Alpha: 0.6
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.386764
+Lose rate: 0.525758
+Draw rate: 0.087478
+Alpha: 0.6
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.3626466666666667
+Lose rate: 0.55704
+Draw rate: 0.08031333333333333
+Alpha: 0.6
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.36435
+Lose rate: 0.554215
+Draw rate: 0.081435
+Alpha: 0.6
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.362298
+Lose rate: 0.556188
+Draw rate: 0.081514
+Alpha: 0.6
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.40425333333333335
+Lose rate: 0.5031433333333334
+Draw rate: 0.09260333333333333
+Alpha: 0.7
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.40258
+Lose rate: 0.5052075
+Draw rate: 0.0922125
+Alpha: 0.7
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.402882
+Lose rate: 0.504828
+Draw rate: 0.09229
+Alpha: 0.7
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.3980633333333333
+Lose rate: 0.51126
+Draw rate: 0.09067666666666667
+Alpha: 0.7
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.397235
+Lose rate: 0.51235
+Draw rate: 0.090415
+Alpha: 0.7
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.397666
+Lose rate: 0.511344
+Draw rate: 0.09099
+Alpha: 0.7
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.38436333333333333
+Lose rate: 0.52792
+Draw rate: 0.08771666666666667
+Alpha: 0.7
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.3836525
+Lose rate: 0.5283275
+Draw rate: 0.08802
+Alpha: 0.7
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.387882
+Lose rate: 0.524984
+Draw rate: 0.087134
+Alpha: 0.7
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.372
+Lose rate: 0.5458966666666667
+Draw rate: 0.08210333333333333
+Alpha: 0.7
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.3742975
+Lose rate: 0.5425975
+Draw rate: 0.083105
+Alpha: 0.7
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.372314
+Lose rate: 0.54584
+Draw rate: 0.081846
+Alpha: 0.7
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.3472133333333333
+Lose rate: 0.57907
+Draw rate: 0.07371666666666667
+Alpha: 0.7
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.3467225
+Lose rate: 0.57987
+Draw rate: 0.0734075
+Alpha: 0.7
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.347324
+Lose rate: 0.577708
+Draw rate: 0.074968
+Alpha: 0.7
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.4146666666666667
+Lose rate: 0.50478
+Draw rate: 0.08055333333333334
+Alpha: 1e-06
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.4138
+Lose rate: 0.50488
+Draw rate: 0.08132
+Alpha: 1e-06
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.414648
+Lose rate: 0.504868
+Draw rate: 0.080484
+Alpha: 1e-06
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.4129933333333333
+Lose rate: 0.5057466666666667
+Draw rate: 0.08126
+Alpha: 1e-06
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4144225
+Lose rate: 0.5055225
+Draw rate: 0.080055
+Alpha: 1e-06
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.413726
+Lose rate: 0.50589
+Draw rate: 0.080384
+Alpha: 1e-06
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.41509666666666667
+Lose rate: 0.50307
+Draw rate: 0.08183333333333333
+Alpha: 1e-06
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4153925
+Lose rate: 0.502765
+Draw rate: 0.0818425
+Alpha: 1e-06
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.414798
+Lose rate: 0.503256
+Draw rate: 0.081946
+Alpha: 1e-06
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.41385
+Lose rate: 0.50493
+Draw rate: 0.08122
+Alpha: 1e-06
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.4145025
+Lose rate: 0.5050825
+Draw rate: 0.080415
+Alpha: 1e-06
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.415018
+Lose rate: 0.504078
+Draw rate: 0.080904
+Alpha: 1e-06
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.4142033333333333
+Lose rate: 0.5044333333333333
+Draw rate: 0.08136333333333333
+Alpha: 1e-06
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.4143275
+Lose rate: 0.504505
+Draw rate: 0.0811675
+Alpha: 1e-06
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.415598
+Lose rate: 0.503858
+Draw rate: 0.080544
+Alpha: 1e-06
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.41591
+Lose rate: 0.5039766666666666
+Draw rate: 0.08011333333333333
+Alpha: 1e-05
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.4143425
+Lose rate: 0.5050375
+Draw rate: 0.08062
+Alpha: 1e-05
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.413632
+Lose rate: 0.504788
+Draw rate: 0.08158
+Alpha: 1e-05
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.4148733333333333
+Lose rate: 0.5042033333333333
+Draw rate: 0.08092333333333333
+Alpha: 1e-05
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.41481
+Lose rate: 0.5029925
+Draw rate: 0.0821975
+Alpha: 1e-05
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.416252
+Lose rate: 0.502478
+Draw rate: 0.08127
+Alpha: 1e-05
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.4146066666666667
+Lose rate: 0.5046266666666667
+Draw rate: 0.08076666666666667
+Alpha: 1e-05
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4140475
+Lose rate: 0.505345
+Draw rate: 0.0806075
+Alpha: 1e-05
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.415328
+Lose rate: 0.503728
+Draw rate: 0.080944
+Alpha: 1e-05
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.41452
+Lose rate: 0.50559
+Draw rate: 0.07989
+Alpha: 1e-05
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.4142325
+Lose rate: 0.5053825
+Draw rate: 0.080385
+Alpha: 1e-05
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.415358
+Lose rate: 0.504378
+Draw rate: 0.080264
+Alpha: 1e-05
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.41357333333333335
+Lose rate: 0.5052633333333333
+Draw rate: 0.08116333333333334
+Alpha: 1e-05
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.415985
+Lose rate: 0.5024125
+Draw rate: 0.0816025
+Alpha: 1e-05
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.416968
+Lose rate: 0.501742
+Draw rate: 0.08129
+Alpha: 1e-05
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.4154233333333333
+Lose rate: 0.5026
+Draw rate: 0.08197666666666667
+Alpha: 0.0001
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.415295
+Lose rate: 0.502955
+Draw rate: 0.08175
+Alpha: 0.0001
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.41445
+Lose rate: 0.503414
+Draw rate: 0.082136
+Alpha: 0.0001
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.41584333333333334
+Lose rate: 0.5014233333333333
+Draw rate: 0.08273333333333334
+Alpha: 0.0001
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4155925
+Lose rate: 0.503235
+Draw rate: 0.0811725
+Alpha: 0.0001
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.414874
+Lose rate: 0.503702
+Draw rate: 0.081424
+Alpha: 0.0001
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.4171533333333333
+Lose rate: 0.5014166666666666
+Draw rate: 0.08143
+Alpha: 0.0001
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4156075
+Lose rate: 0.5033175
+Draw rate: 0.081075
+Alpha: 0.0001
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.415596
+Lose rate: 0.503474
+Draw rate: 0.08093
+Alpha: 0.0001
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.41501666666666664
+Lose rate: 0.5030366666666667
+Draw rate: 0.08194666666666667
+Alpha: 0.0001
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.41499
+Lose rate: 0.503695
+Draw rate: 0.081315
+Alpha: 0.0001
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.415286
+Lose rate: 0.502308
+Draw rate: 0.082406
+Alpha: 0.0001
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.41596333333333335
+Lose rate: 0.50323
+Draw rate: 0.08080666666666667
+Alpha: 0.0001
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.4149875
+Lose rate: 0.5041925
+Draw rate: 0.08082
+Alpha: 0.0001
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.4156
+Lose rate: 0.502464
+Draw rate: 0.081936
+Alpha: 0.0001
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.41881666666666667
+Lose rate: 0.49604
+Draw rate: 0.08514333333333333
+Alpha: 0.001
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.42038
+Lose rate: 0.4934075
+Draw rate: 0.0862125
+Alpha: 0.001
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.421908
+Lose rate: 0.49269
+Draw rate: 0.085402
+Alpha: 0.001
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.41932
+Lose rate: 0.49609333333333333
+Draw rate: 0.08458666666666667
+Alpha: 0.001
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4212875
+Lose rate: 0.4929375
+Draw rate: 0.085775
+Alpha: 0.001
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.422462
+Lose rate: 0.49255
+Draw rate: 0.084988
+Alpha: 0.001
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.4193
+Lose rate: 0.49595
+Draw rate: 0.08475
+Alpha: 0.001
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.422555
+Lose rate: 0.4910675
+Draw rate: 0.0863775
+Alpha: 0.001
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.42276
+Lose rate: 0.491858
+Draw rate: 0.085382
+Alpha: 0.001
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.41989666666666664
+Lose rate: 0.49547
+Draw rate: 0.08463333333333334
+Alpha: 0.001
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.42206
+Lose rate: 0.4922125
+Draw rate: 0.0857275
+Alpha: 0.001
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.421668
+Lose rate: 0.493004
+Draw rate: 0.085328
+Alpha: 0.001
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.41876
+Lose rate: 0.4956333333333333
+Draw rate: 0.08560666666666666
+Alpha: 0.001
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.42153
+Lose rate: 0.4918625
+Draw rate: 0.0866075
+Alpha: 0.001
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.423022
+Lose rate: 0.490944
+Draw rate: 0.086034
+Alpha: 0.001
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.42353
+Lose rate: 0.487
+Draw rate: 0.08947
+Alpha: 0.01
+Gamma: 1e-06
+Episodes: 300000
+Win rate: 0.4242775
+Lose rate: 0.4857025
+Draw rate: 0.09002
+Alpha: 0.01
+Gamma: 1e-06
+Episodes: 400000
+Win rate: 0.425598
+Lose rate: 0.48481
+Draw rate: 0.089592
+Alpha: 0.01
+Gamma: 1e-06
+Episodes: 500000
+Win rate: 0.42417
+Lose rate: 0.48552666666666666
+Draw rate: 0.09030333333333333
+Alpha: 0.01
+Gamma: 1e-05
+Episodes: 300000
+Win rate: 0.4251025
+Lose rate: 0.4858775
+Draw rate: 0.08902
+Alpha: 0.01
+Gamma: 1e-05
+Episodes: 400000
+Win rate: 0.425672
+Lose rate: 0.484304
+Draw rate: 0.090024
+Alpha: 0.01
+Gamma: 1e-05
+Episodes: 500000
+Win rate: 0.42439666666666664
+Lose rate: 0.48511333333333334
+Draw rate: 0.09049
+Alpha: 0.01
+Gamma: 0.0001
+Episodes: 300000
+Win rate: 0.4257925
+Lose rate: 0.4853425
+Draw rate: 0.088865
+Alpha: 0.01
+Gamma: 0.0001
+Episodes: 400000
+Win rate: 0.424492
+Lose rate: 0.485208
+Draw rate: 0.0903
+Alpha: 0.01
+Gamma: 0.0001
+Episodes: 500000
+Win rate: 0.42643333333333333
+Lose rate: 0.48439
+Draw rate: 0.08917666666666667
+Alpha: 0.01
+Gamma: 0.001
+Episodes: 300000
+Win rate: 0.4240575
+Lose rate: 0.4871075
+Draw rate: 0.088835
+Alpha: 0.01
+Gamma: 0.001
+Episodes: 400000
+Win rate: 0.426058
+Lose rate: 0.484422
+Draw rate: 0.08952
+Alpha: 0.01
+Gamma: 0.001
+Episodes: 500000
+Win rate: 0.42479
+Lose rate: 0.4866333333333333
+Draw rate: 0.08857666666666666
+Alpha: 0.01
+Gamma: 0.01
+Episodes: 300000
+Win rate: 0.42389
+Lose rate: 0.4860175
+Draw rate: 0.0900925
+Alpha: 0.01
+Gamma: 0.01
+Episodes: 400000
+Win rate: 0.42473
+Lose rate: 0.484672
+Draw rate: 0.090598
+Alpha: 0.01
+Gamma: 0.01
+Episodes: 500000
+Win rate: 0.426165
+Lose rate: 0.48562
+Draw rate: 0.088215
+Alpha: 0.01
+Gamma: 1e-06
+Episodes: 600000
+Win rate: 0.42526142857142857
+Lose rate: 0.4848157142857143
+Draw rate: 0.08992285714285714
+Alpha: 0.01
+Gamma: 1e-06
+Episodes: 700000
+Win rate: 0.425225
+Lose rate: 0.48613125
+Draw rate: 0.08864375
+Alpha: 0.01
+Gamma: 1e-06
+Episodes: 800000
+Win rate: 0.42402666666666666
+Lose rate: 0.48567166666666667
+Draw rate: 0.09030166666666667
+Alpha: 0.01
+Gamma: 1e-05
+Episodes: 600000
+Win rate: 0.4247714285714286
+Lose rate: 0.4852914285714286
+Draw rate: 0.08993714285714285
+Alpha: 0.01
+Gamma: 1e-05
+Episodes: 700000
+Win rate: 0.42551875
+Lose rate: 0.48436875
+Draw rate: 0.0901125
+Alpha: 0.01
+Gamma: 1e-05
+Episodes: 800000
+Win rate: 0.42556666666666665
+Lose rate: 0.4839216666666667
+Draw rate: 0.09051166666666667
+Alpha: 0.01
+Gamma: 0.0001
+Episodes: 600000
+Win rate: 0.42729
+Lose rate: 0.48286
+Draw rate: 0.08985
+Alpha: 0.01
+Gamma: 0.0001
+Episodes: 700000
+Win rate: 0.4259175
+Lose rate: 0.48341125
+Draw rate: 0.09067125
+Alpha: 0.01
+Gamma: 0.0001
+Episodes: 800000
+Win rate: 0.42481
+Lose rate: 0.48513
+Draw rate: 0.09006
+Alpha: 0.01
+Gamma: 0.001
+Episodes: 600000
+Win rate: 0.42515714285714284
+Lose rate: 0.4848314285714286
+Draw rate: 0.09001142857142858
+Alpha: 0.01
+Gamma: 0.001
+Episodes: 700000
+Win rate: 0.42652375
+Lose rate: 0.48338875
+Draw rate: 0.0900875
+Alpha: 0.01
+Gamma: 0.001
+Episodes: 800000
+Win rate: 0.42504333333333333
+Lose rate: 0.4841916666666667
+Draw rate: 0.090765
+Alpha: 0.01
+Gamma: 0.01
+Episodes: 600000
+Win rate: 0.4244242857142857
+Lose rate: 0.48557
+Draw rate: 0.09000571428571429
+Alpha: 0.01
+Gamma: 0.01
+Episodes: 700000
+Win rate: 0.42526375
+Lose rate: 0.48329875
+Draw rate: 0.0914375
+Alpha: 0.01
+Gamma: 0.01
+Episodes: 800000
